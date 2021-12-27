@@ -1,1 +1,2 @@
 Just a file to test git and github.
+Adding a new line in my file.
