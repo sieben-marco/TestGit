@@ -1,3 +1,4 @@
 Just a file to test git and github.
 Adding a new line in my file.
 Testando e aprendendo sobre git config
+como nao colocar o email no commit?
